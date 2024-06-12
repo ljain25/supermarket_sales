@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import plotly.express as px
+# import plotly.express as px
 import statistics
 
 st.set_page_config(layout='wide',page_title='Supermarket Sales Analysis')
